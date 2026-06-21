@@ -70,8 +70,7 @@ async function getSongs(folder) {
 
 const playMusic = (track, pause = false) => {
 
-    console.log(track);
-    console.log(currFolder);
+    
     currentSong.src = `/${currFolder}/` + track
     if (!pause) {
         currentSong.play()
@@ -90,7 +89,7 @@ const playMusic = (track, pause = false) => {
 }
 
 async function displayAlbums() {
-    console.log("displaying albums")
+    
     let a = await fetch(`/songs/`)
     let response = await a.text();
     let div = document.createElement("div")
