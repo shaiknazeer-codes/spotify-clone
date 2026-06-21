@@ -76,7 +76,7 @@ const playMusic = (track, pause = false) => {
         currentSong.play()
         play.src = "pause.svg"
     }
-    // document.querySelector(".songinfo").innerHTML = decodeURI(track)
+   
     document.querySelector(".songinfo").innerHTML =
         decodeURI(track)
             .replace(".mp3", "")
