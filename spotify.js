@@ -84,6 +84,7 @@ const playMusic = (track, pause = false) => {
             .replace(".mp3", "")
             .replace("_(mp3.pm)", "")
             .replaceAll("_", " ")
+            .replaceAll("%2","")
     document.querySelector(".songtime").innerHTML = "00:00 / 00:00"
 
 
