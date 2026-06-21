@@ -1,8 +1,8 @@
-🎵 Spotify Clone
+Spotify Clone
 
 A responsive Spotify Clone built using HTML, CSS, and JavaScript.
 
-🚀 Features
+ Features
 
 - Spotify-inspired user interface
 - Music player controls
@@ -13,14 +13,14 @@ A responsive Spotify Clone built using HTML, CSS, and JavaScript.
 - Album cover display
 - Dynamic playlist using JSON
 
-🛠️ Technologies Used
+Technologies Used
 
 - HTML5
 - CSS3
 - JavaScript
 - JSON
 
-📁 Project Structure
+Project Structure
 
 - HTML
 - CSS
@@ -29,12 +29,12 @@ A responsive Spotify Clone built using HTML, CSS, and JavaScript.
 - SVG Icons
 - MP3 Audio Files
 
-▶️ How to Run
+ How to Run
 
 1. Download or clone the repository.
 2. Open the project folder.
 3. Open "spotify.html" in your browser.
 
-👨‍💻 Author
+Author
 
 Shaik Nazeer
