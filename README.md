@@ -31,9 +31,11 @@ Project Structure
 
  How to Run
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open "index.html" in your browser.
+1. Clone or download the repository.
+2. Open the project folder in Visual Studio Code.
+3. Install the **Live Server** extension (if you don't already have it).
+4. Right-click on `index.html` and select **Open with Live Server**.
+5. The website will open in your default browser.
 
 Author
 
